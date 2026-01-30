@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bt\\WebBanHang\\WebBanHangOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C267E7FB-8A98-4361-9391-FDF6C4925D1C}|WebBanHangOnline\\WebBanHangOnline.vbproj|d:\\bt\\webbanhang\\webbanhangonline\\webbanhangonline\\controllers\\homecontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C267E7FB-8A98-4361-9391-FDF6C4925D1C}|WebBanHangOnline\\WebBanHangOnline.vbproj|solutionrelative:webbanhangonline\\controllers\\homecontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267E7FB-8A98-4361-9391-FDF6C4925D1C}|WebBanHangOnline\\WebBanHangOnline.vbproj|d:\\bt\\webbanhang\\webbanhangonline\\webbanhangonline\\controllers\\accountcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C267E7FB-8A98-4361-9391-FDF6C4925D1C}|WebBanHangOnline\\WebBanHangOnline.vbproj|solutionrelative:webbanhangonline\\controllers\\accountcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.vb",
+              "DocumentMoniker": "D:\\bt\\WebBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\HomeController.vb",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\HomeController.vb",
+              "ToolTip": "D:\\bt\\WebBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\HomeController.vb",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\HomeController.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-30T09:15:29.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.vb",
+              "DocumentMoniker": "D:\\bt\\WebBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.vb",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\AccountController.vb",
+              "ToolTip": "D:\\bt\\WebBanHang\\WebBanHangOnline\\WebBanHangOnline\\Controllers\\AccountController.vb",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\AccountController.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-30T09:15:27.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
